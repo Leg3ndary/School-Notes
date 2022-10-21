@@ -21,4 +21,3 @@ Finally, multiplying these both gives us 18 + 1 = 19 total different ways we can
 ## Problem B
 
 > Two circles, one of radius 1, the other of radius 2, intersect so that the larger circle passes through the centre of the smaller circle. Find the distance between the two points at which the circles intersect.
-
